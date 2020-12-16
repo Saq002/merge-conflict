@@ -1,6 +1,2 @@
  This is the first commit.
-
 this is second commit.
-
-This is feature 2
-
